@@ -1,0 +1,8 @@
+pip install fastapi 
+create a venv 
+activate it 
+pip install uvicorn 
+pip install jose 
+pip install passlib[bcrypt]
+pip install python- multipart
+openssl rand -hex 32
